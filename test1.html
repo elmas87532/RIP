@@ -1,0 +1,119 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple click event</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 50%;
+      }
+    </style>
+
+  </head>
+  <body>
+    <div id="map"></div>
+    
+    <div id="Ccontent"></div>
+    
+    <script type="text/javascript">
+function loadXMLFile(file){
+
+      var xmlDoc;
+
+      if (window.ActiveXObject){
+         xmlDoc=new ActiveXObject("Microsoft.XMLDOM");
+         xmlDoc.async = false;
+         xmlDoc.load(file);
+         return xmlDoc;
+      } else if (document.implementation && document.implementation.createDocument){
+         var xmlInfo = new XMLHttpRequest();  
+         xmlInfo.open("GET", file, false);
+         xmlInfo.send(null); 
+         xmlDoc = xmlInfo.responseXML;
+         return xmlDoc;
+      }else{
+         alert("您的瀏覽器不支援Javascript!! ");
+      }
+}
+
+var districtName="高雄市大樹區";
+
+var bNames = new Array();
+var bDistrict = new Array();
+var bAddress = new Array();
+var ripLen;
+
+
+
+
+function initMap() {
+  var myLatLng = "";
+
+  var map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 13,
+    center: myLatLng
+  });
+
+  window.onload=function() { 
+      xmlFile="http://localhost/RIP/bone.xml";
+      xmlData=loadXMLFile(xmlFile);
+
+      /*----------------district---------------*/
+
+      var Dxml=loadXMLFile("https://maps.googleapis.com/maps/api/geocode/xml?address="+districtName+"&key=AIzaSyCuGpji_q09xilkb1ytmgIhK0_uG6OQkWo");
+      var center1=Dxml.getElementsByTagName("lat")[0].firstChild.nodeValue;
+      var center2=Dxml.getElementsByTagName("lng")[0].firstChild.nodeValue;
+
+      var myLatLng={lat: parseFloat(center1), lng: parseFloat(center2)};
+      var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 13,
+      center: myLatLng
+      });
+
+      /*--------------------------------------*/
+
+      var markers=new Array();
+      var locate1="";
+      var locate2="";
+      var Lxml=0;
+
+      ripLen=xmlData.getElementsByTagName("District").length;
+      for (var i=0 ; i<ripLen ; i++) {
+
+        bDistrict[i] = xmlData.getElementsByTagName("District")[i].firstChild.nodeValue;
+        bAddress[i] = xmlData.getElementsByTagName("Address")[i].firstChild.nodeValue;
+        bNames[i] = xmlData.getElementsByTagName("Name")[i].firstChild.nodeValue;
+
+        Lxml=loadXMLFile("https://maps.googleapis.com/maps/api/geocode/xml?address="+bDistrict[i]+bAddress[i]+"&key=AIzaSyCuGpji_q09xilkb1ytmgIhK0_uG6OQkWo");
+        locate1=Lxml.getElementsByTagName("lat")[0].firstChild.nodeValue;
+        locate2=Lxml.getElementsByTagName("lng")[0].firstChild.nodeValue;
+
+        if (bDistrict[i] !== districtName) {
+          continue;
+        }
+
+        document.getElementById('Ccontent').innerHTML +='區域：'+bDistrict[i]+' 名稱：'+bNames[i]+'<br><br/>';
+
+        markers[i]=new google.maps.Marker({
+        position: {lat: parseFloat(locate1), lng: parseFloat(locate2)},
+        map: map,
+        title: 'Hello World!'
+        });
+
+      }
+}
+
+}
+
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAj794YnSt92dqAgXinCL-0G0_29DqM3v8&signed_in=true&callback=initMap" async defer>
+    </script>
+  </body>
+</html>
