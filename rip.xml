@@ -1,0 +1,250 @@
+<Xml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Stronghold>
+<Name>高雄市橋頭區慈恩堂</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-6128891</strong></strong></p> <p> <strong><strong>傳真：07-6128892</strong></strong></p> <p> &nbsp;</p> ]]>
+</Introduction>
+<Coordinate>22.761138367239763,120.30010495352962,15</Coordinate>
+<City>高雄市</City>
+<District>橋頭區</District>
+<Address>白樹里甲樹路170號</Address>
+</Stronghold>
+<Stronghold>
+<Name>大社第二納骨塔慈恩堂</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-3557991</strong></strong></p> <p> <strong><strong>傳真：07-3557993</strong></strong></p> <p> &nbsp;</p> ]]>
+</Introduction>
+<Coordinate>22.7227351,120.35993269999994,15</Coordinate>
+<City>高雄市</City>
+<District>大社區</District>
+<Address>和平路二段289號</Address>
+</Stronghold>
+<Stronghold>
+<Name>湖內第二納骨塔</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-6993704</strong></strong></p> <p> <strong><strong>傳真：07-6993704</strong></strong></p> ]]>
+</Introduction>
+<Coordinate>22.9055829,120.22770250000008,17</Coordinate>
+<City>高雄市</City>
+<District>湖內區</District>
+<Address>逸賢里湖中路525巷20號</Address>
+</Stronghold>
+<Stronghold>
+<Name>湖內第一納骨塔</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-6993704</strong></strong></p> <p> <strong><strong>傳真：07-6993704</strong></strong></p> <p> &nbsp;</p> ]]>
+</Introduction>
+<Coordinate>22.9055829,120.22770250000008,16</Coordinate>
+<City>高雄市</City>
+<District>湖內區</District>
+<Address>逸賢里湖中路525巷20號</Address>
+</Stronghold>
+<Stronghold>
+<Name>高雄市彌陀區納骨堂</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-6104150</strong></strong></p> <p> <strong><strong>傳真：07-6108664</strong></strong></p> ]]>
+</Introduction>
+<Coordinate>22.76832038652003,120.25323020753365,16</Coordinate>
+<City>高雄市</City>
+<District>彌陀區</District>
+<Address>山頂路9號</Address>
+</Stronghold>
+<Stronghold>
+<Name>路竹區第四公墓納骨塔</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：0972965509</strong></strong></p> <p> <strong><strong>傳真：07-6960819</strong></strong></p> ]]>
+</Introduction>
+<Coordinate>22.8487331,120.22995609999998,15</Coordinate>
+<City>高雄市</City>
+<District>路竹區</District>
+<Address>新達里大公路471號</Address>
+</Stronghold>
+<Stronghold>
+<Name>高雄市六龜區第四公墓納骨堂</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-6893177</strong></strong></p> <p> <strong><strong>傳真：07-6894071</strong></strong></p> <p> &nbsp;</p> <p> &nbsp;</p> ]]>
+</Introduction>
+<Coordinate>22.938135584578333,120.66054424270248,13</Coordinate>
+<City>高雄市</City>
+<District>六龜區</District>
+<Address>中興里中庒巷215-36號</Address>
+</Stronghold>
+<Stronghold>
+<Name>安樂堂納骨塔、鼎金納骨塔</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-3858843</strong></strong></p> <p> <strong><strong>傳真：07-3954622</strong></strong></p> <p> &nbsp;</p> ]]>
+</Introduction>
+<Coordinate>22.6606568,120.33233659999996,15</Coordinate>
+<City>高雄市</City>
+<District>三民區</District>
+<Address>本館路600巷20號</Address>
+</Stronghold>
+<Stronghold>
+<Name>高雄市仁武區第一公墓納骨堂</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-3718159</strong></strong></p> <p> <strong><strong>傳真：07-3729537</strong></strong></p> <p> &nbsp;</p> ]]>
+</Introduction>
+<Coordinate>22.6976054,120.35182669999994,16</Coordinate>
+<City>高雄市</City>
+<District>仁武區</District>
+<Address>文學三街167號</Address>
+</Stronghold>
+<Stronghold>
+<Name>高雄市立慈暉納骨塔(骨灰)及慈恩納骨塔(生骨)</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-6152424</strong></strong></p> <p> <strong><strong>傳真：07-3954622</strong></strong></p> <p> &nbsp;</p> ]]>
+</Introduction>
+<Coordinate>22.7836659,120.41799659999992,15</Coordinate>
+<City>高雄市</City>
+<District>燕巢區</District>
+<Address>深水路4巷67號</Address>
+</Stronghold>
+<Stronghold>
+<Name>岡山第三公墓大莊基地納骨塔</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-6282577</strong></strong></p> <p> <strong><strong>傳真：07-6282955</strong></strong></p> <p> &nbsp;</p> ]]>
+</Introduction>
+<Coordinate>22.8075863,120.32546049999996,15</Coordinate>
+<City>高雄市</City>
+<District>岡山區</District>
+<Address>大莊路78號</Address>
+</Stronghold>
+<Stronghold>
+<Name>鳥松區第四公墓納骨堂(懷恩寶塔)</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-3811104</strong></strong></p> <p> <strong><strong>傳真：07-3905611</strong></strong></p> <p> &nbsp;</p> ]]>
+</Introduction>
+<Coordinate>22.6606568,120.33233659999996,14</Coordinate>
+<City>高雄市</City>
+<District>三民區</District>
+<Address>本館路600巷22號</Address>
+</Stronghold>
+<Stronghold>
+<Name>高雄市梓官區納骨堂</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-6100902</strong></strong></p> <p> <strong><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 07-6170995</strong></strong></p> <p> <strong><strong>傳真：07-6170414</strong></strong></p> <p> &nbsp;</p> ]]>
+</Introduction>
+<Coordinate>22.7662956,120.25500390000002,15</Coordinate>
+<City>高雄市</City>
+<District>梓官區</District>
+<Address>四維路501巷61號</Address>
+</Stronghold>
+<Stronghold>
+<Name>高雄市仁武區第八公墓納骨堂</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-3718159</strong></strong></p> <p> <strong><strong>傳真：07-3729537</strong></strong></p> ]]>
+</Introduction>
+<Coordinate>22.676857636189652,120.36056393502304,16</Coordinate>
+<City>高雄市</City>
+<District>仁武區</District>
+<Address>考潭里成功路170之33號</Address>
+</Stronghold>
+<Stronghold>
+<Name>旗山區第一納骨堂及第六公墓多元法葬生命園區</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-6628467</strong></strong></p> <p> <strong><strong>傳真：07-6628467</strong></strong></p> <p> &nbsp;</p> ]]>
+</Introduction>
+<Coordinate>22.870541,120.49018999999998,16</Coordinate>
+<City>高雄市</City>
+<District>旗山區</District>
+<Address>南寮巷1號之1</Address>
+</Stronghold>
+<Stronghold>
+<Name>茄萣第一公墓第二納骨堂</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-6904413&nbsp;&nbsp; 07-6904928</strong></strong></p> <p> <strong><strong>傳真：07-6904477</strong></strong></p> <p> &nbsp;</p> <p> &nbsp;</p> ]]>
+</Introduction>
+<Coordinate>22.9135764,120.18715139999995,16</Coordinate>
+<City>高雄市</City>
+<District>茄萣區</District>
+<Address>中正路三段6號</Address>
+</Stronghold>
+<Stronghold>
+<Name>高雄市杉林區第四公墓納骨堂</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：0961000565</strong></strong></p> <p> <strong><strong>傳真：07-6772874</strong></strong></p> <p> &nbsp;</p> ]]>
+</Introduction>
+<Coordinate>23.003898066302366,120.56719816574605,14</Coordinate>
+<City>高雄市</City>
+<District>杉林區</District>
+<Address>杉林里合森巷128之1號</Address>
+</Stronghold>
+<Stronghold>
+<Name>茄萣第一公墓第三納骨塔</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-6904413&nbsp;&nbsp;&nbsp; </strong></strong><strong><strong>07-6904928</strong></strong></p> <p> <strong><strong>傳真：07-6904477</strong></strong></p> <p> &nbsp;</p> <p> &nbsp;</p> <p> &nbsp;</p> ]]>
+</Introduction>
+<Coordinate>22.9135764,120.18715139999995,17</Coordinate>
+<City>高雄市</City>
+<District>茄萣區</District>
+<Address>中正路三段6號</Address>
+</Stronghold>
+<Stronghold>
+<Name>高雄市美濃區納骨堂</Name>
+<Introduction>
+<![CDATA[<p> <strong>電話：07-6818293</strong></p> <p> &nbsp;</p> ]]>
+</Introduction>
+<Coordinate>22.895365,120.54474800000002,15</Coordinate>
+<City>高雄市</City>
+<District>美濃區</District>
+<Address>成功路310巷30號</Address>
+</Stronghold>
+<Stronghold>
+<Name>高雄內門區第七公墓納骨堂</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-6672061</strong></strong></p> <p> <strong><strong>傳真：07-6672061</strong></strong></p> <p> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></p> ]]>
+</Introduction>
+<Coordinate>22.9560087,120.47032579999995,14</Coordinate>
+<City>高雄市</City>
+<District>內門區</District>
+<Address>內東里虎頭山3-18號</Address>
+</Stronghold>
+<Stronghold>
+<Name>旗津生命紀念館</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-5717765&nbsp;&nbsp;&nbsp; 07-5714993</strong></strong></p> <p> <strong><strong>傳真：07-5716261</strong></strong></p> <p> &nbsp;</p> <p> &nbsp;</p> ]]>
+</Introduction>
+<Coordinate>22.596697,120.27939400000002,15</Coordinate>
+<City>高雄市</City>
+<District>旗津區</District>
+<Address>旗津三路50號</Address>
+</Stronghold>
+<Stronghold>
+<Name>高雄市甲仙區第四公墓納骨堂</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-6754345</strong></strong></p> <p> <strong><strong>傳真：07-6754345</strong></strong></p> <p> &nbsp;</p> ]]>
+</Introduction>
+<Coordinate>23.0833333,120.58333330000005,14</Coordinate>
+<City>高雄市</City>
+<District>甲仙區</District>
+<Address>大田里新榮巷1-1號</Address>
+</Stronghold>
+<Stronghold>
+<Name>路竹區第二納骨塔</Name>
+<Introduction><![CDATA[<p> 電話：0972-965-509</p> ]]></Introduction>
+<Coordinate>22.8784309,120.29602920000002,17</Coordinate>
+<City>高雄市</City>
+<District>路竹區</District>
+<Address>環球路90巷96弄35號</Address>
+</Stronghold>
+<Stronghold>
+<Name>高雄市大樹區第一納骨塔</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-6529242</strong></strong></p> <p> <strong><strong>傳真：07-6529242</strong></strong></p> <p> &nbsp;</p> ]]>
+</Introduction>
+<Coordinate>22.682668521245997,120.41578054880926,15</Coordinate>
+<City>高雄市</City>
+<District>大樹區</District>
+<Address>龍目里龍目路160號</Address>
+</Stronghold>
+<Stronghold>
+<Name>高雄市鳳山拷潭納骨堂</Name>
+<Introduction>
+<![CDATA[<p> <strong><strong>電話：07-7920200</strong></strong></p> <p> <strong><strong>傳真：07-7969802</strong></strong></p> <p> &nbsp;</p> ]]>
+</Introduction>
+<Coordinate>22.5893173,120.3745083,16</Coordinate>
+<City>高雄市</City>
+<District>大寮區</District>
+<Address>內坑里六和路78-12號</Address>
+</Stronghold>
+</Xml>
